@@ -65,7 +65,10 @@ def merge(arr, temp_arr, left, mid, right):
   
     return inv_count
 
-arr = [1, 20, 6, 4, 5]
-n = len(arr)
-result = mergeSort(arr, n)
-print("Number of inversions are", result)
+#arr = [1, 20, 6, 4, 5]
+#n = len(arr)
+#result = mergeSort(arr, n)
+#print("Number of inversions are", result)
+
+
+
